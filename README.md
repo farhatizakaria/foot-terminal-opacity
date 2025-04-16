@@ -1,5 +1,7 @@
 # foot-terminal-opacity
-🔍 What this config does
+This repository contains a minimalist and transparent theme configuration for the Foot terminal emulator, designed for Wayland environments like Sway and Hyprland.
+
+## 🔍 What this config does
 📁 [colors] section:
 alpha=0.9: Your terminal background is 90% opaque, giving you 10% transparency — looks great over a wallpaper!
 
@@ -7,7 +9,7 @@ foreground=ffffff: White text
 
 background=000000: Black background
 
-🎨 Color Palette:
+## 🎨 Color Palette:
 This sets your 16-color palette:
 
 regularX → normal text colors
